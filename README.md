@@ -1,4 +1,4 @@
-# HNG13-country-exchange-api
+country_exchange_api
 A Django REST API that provides country information, exchange rates, and computed GDP estimates.
 It integrates live data from external APIs, supports CRUD operations, and generates visual summary reports as images.
 
